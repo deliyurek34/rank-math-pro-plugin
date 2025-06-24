@@ -36,16 +36,60 @@ With Rank Math Pro, you get next-level features that put professional SEO within
 
 ## Rank Math Pro vs Free: What’s the Difference?
 
-| Feature                     | Free Version | Pro Version     |
-|-----------------------------|--------------|-----------------|
-| Focus keywords              | 5            | Unlimited       |
-| Schema generator            | Basic        | Advanced        |
-| Redirection manager         | ❌           | ✅              |
-| 404 monitor                 | ❌           | ✅              |
-| AI content analysis         | ❌           | ✅              |
-| Image SEO automation        | ❌           | ✅              |
-| WooCommerce SEO             | Basic        | Advanced        |
-| Priority support            | ❌           | ✅              |
+<div style="display: flex; justify-content: center;">
+  
+<table>
+  <thead>
+    <tr>
+      <th>Feature</th>
+      <th>Free Version</th>
+      <th>Pro Version</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Focus keywords</td>
+      <td>5</td>
+      <td>Unlimited</td>
+    </tr>
+    <tr>
+      <td>Schema generator</td>
+      <td>Basic</td>
+      <td>Advanced</td>
+    </tr>
+    <tr>
+      <td>Redirection manager</td>
+      <td>❌</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>404 monitor</td>
+      <td>❌</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>AI content analysis</td>
+      <td>❌</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>Image SEO automation</td>
+      <td>❌</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>WooCommerce SEO</td>
+      <td>Basic</td>
+      <td>Advanced</td>
+    </tr>
+    <tr>
+      <td>Priority support</td>
+      <td>❌</td>
+      <td>✅</td>
+    </tr>
+  </tbody>
+</table>
+</div>
 
 ---
 
