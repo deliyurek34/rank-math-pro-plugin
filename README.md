@@ -36,62 +36,16 @@ With Rank Math Pro, you get next-level features that put professional SEO within
 
 ## Rank Math Pro vs Free: What’s the Difference?
 
-<div style="display: flex; justify-content: center; padding: 10px;">
-  <div style="width: 100%; max-width: 100vw; overflow-x: auto;">
-    <table style="width: 100%; border-collapse: collapse; min-width: 600px;">
-      <thead>
-        <tr style="background-color: #f0f0f0;">
-          <th style="border: 1px solid #ccc; padding: 8px; text-align: left;">Feature</th>
-          <th style="border: 1px solid #ccc; padding: 8px; text-align: left;">Free Version</th>
-          <th style="border: 1px solid #ccc; padding: 8px; text-align: left;">Pro Version</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td style="border: 1px solid #ccc; padding: 8px;">Focus keywords</td>
-          <td style="border: 1px solid #ccc; padding: 8px;">5</td>
-          <td style="border: 1px solid #ccc; padding: 8px;">Unlimited</td>
-        </tr>
-        <tr>
-          <td style="border: 1px solid #ccc; padding: 8px;">Schema generator</td>
-          <td style="border: 1px solid #ccc; padding: 8px;">Basic</td>
-          <td style="border: 1px solid #ccc; padding: 8px;">Advanced</td>
-        </tr>
-        <tr>
-          <td style="border: 1px solid #ccc; padding: 8px;">Redirection manager</td>
-          <td style="border: 1px solid #ccc; padding: 8px; text-align: center;">❌</td>
-          <td style="border: 1px solid #ccc; padding: 8px; text-align: center;">✅</td>
-        </tr>
-        <tr>
-          <td style="border: 1px solid #ccc; padding: 8px;">404 monitor</td>
-          <td style="border: 1px solid #ccc; padding: 8px; text-align: center;">❌</td>
-          <td style="border: 1px solid #ccc; padding: 8px; text-align: center;">✅</td>
-        </tr>
-        <tr>
-          <td style="border: 1px solid #ccc; padding: 8px;">AI content analysis</td>
-          <td style="border: 1px solid #ccc; padding: 8px; text-align: center;">❌</td>
-          <td style="border: 1px solid #ccc; padding: 8px; text-align: center;">✅</td>
-        </tr>
-        <tr>
-          <td style="border: 1px solid #ccc; padding: 8px;">Image SEO automation</td>
-          <td style="border: 1px solid #ccc; padding: 8px; text-align: center;">❌</td>
-          <td style="border: 1px solid #ccc; padding: 8px; text-align: center;">✅</td>
-        </tr>
-        <tr>
-          <td style="border: 1px solid #ccc; padding: 8px;">WooCommerce SEO</td>
-          <td style="border: 1px solid #ccc; padding: 8px;">Basic</td>
-          <td style="border: 1px solid #ccc; padding: 8px;">Advanced</td>
-        </tr>
-        <tr>
-          <td style="border: 1px solid #ccc; padding: 8px;">Priority support</td>
-          <td style="border: 1px solid #ccc; padding: 8px; text-align: center;">❌</td>
-          <td style="border: 1px solid #ccc; padding: 8px; text-align: center;">✅</td>
-        </tr>
-      </tbody>
-    </table>
-  </div>
-</div>
-
+| Feature                     | Free Version | Pro Version     |
+|-----------------------------|--------------|-----------------|
+| Focus keywords              | 5            | Unlimited       |
+| Schema generator            | Basic        | Advanced        |
+| Redirection manager         | ❌           | ✅              |
+| 404 monitor                 | ❌           | ✅              |
+| AI content analysis         | ❌           | ✅              |
+| Image SEO automation        | ❌           | ✅              |
+| WooCommerce SEO             | Basic        | Advanced        |
+| Priority support            | ❌           | ✅              |
 
 ---
 
